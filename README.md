@@ -8,6 +8,8 @@
 
 - 📝 My personal website is [gyurisc.com](https://www.gyurisc.com/)
 
+- Talk to me on [X](https://x.com/gyurisc)
+
 - ⚡ Fun fact **Drinking loads of coffee**
 
 
