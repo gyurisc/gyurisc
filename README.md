@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **Drinking loads of coffee**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyurisc&layout=compact&hide=html" alt="gyurisc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyurisc&show_icons=true" alt="gyurisc" /></p>
 
