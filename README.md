@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fire Portfolio**
 
-- 📝 My personal website with my project can be found at [gyurisc.com/](https://www.gyurisc.com/)
+- 📝 My personal website is [gyurisc.com](https://www.gyurisc.com/)
 
 - ⚡ Fun fact **Drinking loads of coffee**
 
