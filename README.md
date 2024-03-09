@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Fire Portfolio**
 
-- 📝 I regulary write articles on [https://www.littlebigtomatoes.com/](https://www.littlebigtomatoes.com/)
+- 📝 My personal website with my project can be found at [gyurisc.com/](https://www.gyurisc.com/)
 
 - ⚡ Fun fact **Drinking loads of coffee**
 
