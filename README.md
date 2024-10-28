@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyurisc" alt="gyurisc" /> </p>
 
-- 🔭 I’m currently working on various **Side Projects**
+- 🔭 I’m currently working on various **Side Projects** such as [PomTask](https://pomtask.com/) or [WedPicsQR](https://www.wedpicsqr.com/)
 
 - 📝 My personal website is [gyurisc.com](https://www.gyurisc.com/)
 
