@@ -18,5 +18,5 @@
 <p align="center">
 <a href="https://dev.to/gyurisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gyurisc" height="30" width="30" /></a>
 <a href="https://twitter.com/gyurisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gyurisc" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/gyurisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gyurisc" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/260/gyurisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gyurisc" height="30" width="30" /></a>
 </p>
